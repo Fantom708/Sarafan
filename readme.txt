@@ -1,16 +1,21 @@
-3. Vue.js - отображение и изменение данных с сервера (часть 2). Spring Boot REST
+5. РџРѕРґРєР»СЋС‡Р°РµРј Spring Security Рё oAuth2. Spring Boot REST
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+https://console.cloud.google.com/apis/credentials?pli=1
 
+4. РџРѕРґРєР»СЋС‡Р°РµРј Р±Р°Р·Сѓ РґР°РЅРЅС‹С…, РЅР°СЃС‚СЂР°РёРІР°РµРј Jackson. Spring Boot REST
+Lombok, Jackson (JsonView)
+
+
+3. Vue.js - РѕС‚РѕР±СЂР°Р¶РµРЅРёРµ Рё РёР·РјРµРЅРµРЅРёРµ РґР°РЅРЅС‹С… СЃ СЃРµСЂРІРµСЂР° (С‡Р°СЃС‚СЊ 2). Spring Boot REST
 https://caniuse.com/
 
 
-2. Vue.js - базовый JavaScript интерфейс для REST приложения (часть 1). Spring Boot REST
-
+2. Vue.js - Р±Р°Р·РѕРІС‹Р№ JavaScript РёРЅС‚РµСЂС„РµР№СЃ РґР»СЏ REST РїСЂРёР»РѕР¶РµРЅРёСЏ (С‡Р°СЃС‚СЊ 1). Spring Boot REST
 https://github.com/pagekit/vue-resource
 https://ru.vuejs.org/index.html
 
 
-1. Делаем простое REST приложение с нуля. Spring Boot REST
-
+1. Р”РµР»Р°РµРј РїСЂРѕСЃС‚РѕРµ REST РїСЂРёР»РѕР¶РµРЅРёРµ СЃ РЅСѓР»СЏ. Spring Boot REST
 https://learn.javascript.ru/fetch
 https://learn.javascript.ru/promise
 https://spring.io/guides/gs/rest-service/
