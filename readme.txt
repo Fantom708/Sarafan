@@ -1,3 +1,6 @@
+6.Настраиваем Spring Security и oAuth2 в Vue.js. Spring Boot REST
+www.thymeleaf.org
+
 5. Подключаем Spring Security и oAuth2. Spring Boot REST
 https://spring.io/guides/tutorials/spring-boot-oauth2/
 https://console.cloud.google.com/apis/credentials?pli=1
