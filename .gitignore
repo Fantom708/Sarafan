@@ -1,5 +1,6 @@
 .bashrc
 target/
+node_modules/
 
 .gradle
 /build/
