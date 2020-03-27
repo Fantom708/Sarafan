@@ -1,6 +1,9 @@
 .bashrc
 target/
 node_modules/
+yarn-error.log
+yarn.lock
+3.0
 
 .gradle
 /build/

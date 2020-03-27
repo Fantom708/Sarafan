@@ -1,3 +1,8 @@
+9. Стилизуем приложение с Vuetify (Material design). Spring Boot REST
+https://vuetifyjs.com/
+https://vue-loader.vuejs.org/ru/guide/
+https://material.io/resources/icons/?icon=exit_to_app&style=baseline
+
 8. Подключаем WebSocket (SockJS + Stomp). Spring Boot REST
 https://spring.io/guides/gs/messaging-stomp-websocket/
 https://stomp-js.github.io/stomp-websocket/codo/extra/docs-src/Usage.md.html
